@@ -1,0 +1,5 @@
+healthka_customers/.vscode/settings.json
+database/node_modules
+database/.env
+healthka_customers/windows/flutter/generated_plugin_registrant.cc
+healthka_customers/windows/flutter/generated_plugins.cmake

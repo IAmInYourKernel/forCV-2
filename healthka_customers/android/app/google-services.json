@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895483767406",
+    "project_id": "healthka-auth",
+    "storage_bucket": "healthka-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895483767406:android:c84ab64102790d9160d47f",
+        "android_client_info": {
+          "package_name": "com.healthka.customers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895483767406-8rv5m0t975g9qqooj5n7p5tg9m625mca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthka.customers",
+            "certificate_hash": "ea073dc2c456a38e5661e5fde90fd59595941a3c"
+          }
+        },
+        {
+          "client_id": "895483767406-8gqsj952q48akjp5ns5p5aaufo15dnvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyTAJDZRmBb0AX9q-AgHc9cIOZe4bHHLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895483767406-8gqsj952q48akjp5ns5p5aaufo15dnvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
